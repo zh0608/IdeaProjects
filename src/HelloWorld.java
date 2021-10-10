@@ -11,6 +11,7 @@ public class HelloWorld {
         ArrayList arrayList = new ArrayList();
 
         arrayList.add(0, "hello");
+        //数艘ID房间里撒解放路
         String sendHello;
 
         StringBuffer str = new StringBuffer();
